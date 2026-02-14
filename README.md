@@ -19,7 +19,7 @@
 
 ###
 
-## Development technologies
+## Development stack
 
 #### Front-end:
 <p align="center">
