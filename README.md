@@ -4,16 +4,9 @@
 ###
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=carlos-unix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&cache_seconds=0&v=2" 
-    height="150"
-    alt="stats graph"
-
-  <img 
-    src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=carlos-unix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2&cache_seconds=0&v=2" 
-    height="150"
-    alt="languages graph"  
-  />
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=carlos-unix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=carlos-unix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
