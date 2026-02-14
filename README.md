@@ -1,7 +1,16 @@
-<h1 align="center"> 👋 Hello! I'm Carlos Lopes</h1>
+<h1 align="center"> 👋 Hello! I'm Carlos Lopes.</h1>
 <h4 align="center"> I'm a software developer with experience in web development and a Bachelor's Degree student in Information Systems. 
 
-## Development technologies
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=carlos-unix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=carlos-unix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+## Development stack
 
 #### Front-end:
 <p align="center">
@@ -33,6 +42,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:ceduardolopes999@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlos-unix)
 
-### More of me
+#### More about me:
 
 [![Lattes](https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/9176639036394125)
