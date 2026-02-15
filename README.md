@@ -15,13 +15,11 @@
 ## Development stack
 
 #### Front-end:
-<p align="center">
 
 ![Static Badge](https://img.shields.io/badge/HTML-0?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-0?style=for-the-badge&logo=css&logoColor=white&color=663399)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</p>
 
 #### Database:
 ![Static Badge](https://img.shields.io/badge/MySQL-0?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
