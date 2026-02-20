@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hello! I'm Carlos Lopes.</h1>
-<h4 align="center"> I'm a software developer with experience in web development and a Bachelor's Degree student in Information Systems. 
+<h4 align="center"> Full Stack Developer and Information Systems student at the Federal Institute of Education, Science and Technology of Minas Gerais – São João Evangelista Campus. Currently working as a Full Stack Developer Intern at Imaculada Conceição Regional Hospital (HIC), building real healthcare systems using PHP, MySQL, HTML, CSS and Bootstrap. 
 
 ###
 
@@ -12,7 +12,13 @@
 
 ###
 
-## Development stack
+## 🚀 Featured Projects
+
+🔹 **sysHEMO** – Hemovigilance management system used internally at HIC (_private for now_).  
+🔹 **FinOrganizer** – Web-based personal finance management system with login and graphical view.  
+🔹 **cad.me** – User registration system with authentication in Python.  
+
+## 🛠️ Tech Stack
 
 #### Front-end:
 
@@ -45,3 +51,5 @@
 #### More about me:
 
 [![Lattes](https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/9176639036394125)
+
+> Always learning more and more...
