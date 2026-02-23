@@ -17,6 +17,7 @@
 🔹 **sysHEMO** – Hemovigilance management system used internally at HIC (_private for now_).  
 🔹 **FinOrganizer** – Web-based personal finance management system with login and graphical view.  
 🔹 **cad.me** – User registration system with authentication in Python.  
+🔹 **IFMG Cardápio Digital** - Telegram bot written in Java to access the IFMG campi menu.  
 
 ## 🛠️ Tech Stack
 
