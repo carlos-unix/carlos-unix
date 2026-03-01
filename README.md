@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 <h1 align="center"> 👋 Hello! I'm Carlos Lopes.</h1>
 <h4 align="center"> Full Stack Developer and Information Systems student at the Federal Institute of Education, Science and Technology of Minas Gerais – São João Evangelista Campus. Currently working as a Full Stack Developer Intern at Imaculada Conceição Regional Hospital (HIC), building real healthcare systems using PHP, MySQL, HTML, CSS and Bootstrap. 
 
@@ -6,7 +8,7 @@
 <div align="center">
   <img src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=carlos-unix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&v=1" height="150" alt="stats graph"/>
   
-  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=carlos-unix&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=carlos-unix&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
