@@ -5,17 +5,9 @@
 <h3 align="center">Full Stack Developer @ HIC | Information Systems @ IFMG</h3>
 
 <div align="center">
-<<<<<<< HEAD
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloslopes-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceduardolopes999@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logo=readme&logoColor=white)](http://lattes.cnpq.br/9176639036394125)
-
-=======
   <img src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=carlos-unix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&v=1" height="150" alt="stats graph"/>
   
   <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=carlos-unix&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
->>>>>>> c7a446db1d63e4b8bfb105bdbedc21522900affd
 </div>
 
 <p align="center">
