@@ -2,7 +2,7 @@
 
 <h1 align="left">| 👋 Hi! I'm Carlos Lopes </h1>
 
-<h3 align="center">Full Stack Developer | PHP • MySQL • Java • Python | Information Systems @ IFMG</h3>
+<h3 align="center">Full Stack Developer | PHP • MySQL • Java • Python | Information Systems @ IFMG</h3> 
 
 <div align="center">
 
