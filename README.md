@@ -12,10 +12,6 @@
 
 </div>
 
-<p align="center">
-  Currently building real healthcare systems at Imaculada Conceição Regional Hospital (HIC) using PHP, MySQL and Bootstrap. Passionate about creating solutions that make a difference in people's lives.
-</p>
-
 ### 📊 GitHub Stats
 
 <div align="center">
