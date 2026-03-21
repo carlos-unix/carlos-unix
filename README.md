@@ -28,7 +28,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Status-Private-red?style=flat-square" />
+        <a href="https://github.com/carlos-unix/sysHEMO"><img src="https://img.shields.io/badge/View-Repo-green?style=flat-square" /></a>
       </p>
     </td>
     <td width="50%">
